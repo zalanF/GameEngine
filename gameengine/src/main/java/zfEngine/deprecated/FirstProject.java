@@ -197,7 +197,7 @@ public class FirstProject {
 		 */
 
 		va.unBind();
-		shader.unBind();
+		shader.unbind();
 		vb.unBind();
 		ib.unBind();
 		
